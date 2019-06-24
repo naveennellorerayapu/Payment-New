@@ -1,2 +1,2 @@
-# Payment-New
+# PaymentNew
 Payments
